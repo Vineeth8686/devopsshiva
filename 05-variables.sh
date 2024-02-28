@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Please enter user your user name"
-read USERNAME 
+read -s USERNAME 
 echo "hellow $USERNAME, How are you!"
