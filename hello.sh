@@ -1,5 +1,5 @@
 #!/bin/bash
-Employee-1="Ramesh"
-Employee-2="Suresh"
-echo "Hellow $(Employee-1)"
-echo "Hellow $(Employee-2)"
+Employee1=Ramesh
+Employee2=Suresh
+echo "Hellow $Employee1"
+echo "Hellow $Employee2"
