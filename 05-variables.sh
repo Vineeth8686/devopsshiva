@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 echo "Hellow, Please enter user name:"
 read Username
 echo "hi $Username.Please enter your password"
