@@ -1,3 +1,5 @@
 #!/bin/bash
-echo "Hellow world"
-echo " This chnages was made from windows laptop".
+Employee-1="Ramesh"
+Employee-2="Suresh"
+echo "Hellow $(Employee-1)"
+echo "Hellow $(Employee-2)"
