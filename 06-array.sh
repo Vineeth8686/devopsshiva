@@ -1,2 +1,2 @@
 persons=("ramesh" "suresh" "akil")
-echo "Hi $(persons[0])"
+echo "Hi ${persons[0]}"
